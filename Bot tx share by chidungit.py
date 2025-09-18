@@ -16,7 +16,7 @@ import pytz
 
 TOKEN = 'nhậptokenbot vào đây '
 
-bot = telebot.TeleBot(TOKEN)
+bot = telebot.TeleBot(8395956317:AAHu7lAbS5Qi56EUD11bJRDi8oE-1jCpoCw)
 
 
 
@@ -32,7 +32,7 @@ USED_CODES_FILE = 'used_codes.txt'
 
 # ID của admin
 
-ADMIN_ID = 6053094932  # Thay bằng ID của admin thực sự
+ADMIN_ID = 7818408538  # Thay bằng ID của admin thực sự
 
 
 
@@ -543,4 +543,5 @@ if __name__ == "__main__":
     last_bet_time = {}  # Lưu trữ thời gian lần cuối cùng mỗi người chơi đặt cược
 
     bot.polling()
+
 
