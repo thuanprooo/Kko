@@ -1,0 +1,7 @@
+Cái này mình lụm được bên Rats Team có full source anh em nào cần ib mình nhé.
+
+Anh em điền đầy đủ token bot, id chat trên telegram
+
+Lấy token bot (BotFather)
+
+Khi anh em setup xong tuyệt đối không chạy lại tool, khi anh em setup xong hãy đi rải tool kèm những file như .txt .config anh em sẽ thay định dạng trong file .txt thành [Config_News2025_J81KLV1]. Và nén nó lại đi rải nhé!
